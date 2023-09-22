@@ -1,0 +1,59 @@
+.d-flex.align-items-center.justify-content-around > a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.d-flex.align-items-center.justify-content-around > a >h6
+{
+    color: gray;
+    font-size: 13px;
+}
+
+/* .d-flex.align-items-center.justify-content-around > a >h5
+{
+    font-weight: bolder;
+} */
+
+.col-md-3
+{
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 30px;
+}
+
+.nav-link.dropdown-toggle>i
+{
+    color: #ababab;
+}
+
+.nav-link >i
+{
+    color: #ababab;
+}
+
+.nav-link.dropdown-toggle>span
+{
+    text-decoration: none;
+    color: black;
+    padding-left: 15px;
+}
+
+.nav-link >span
+{
+    text-decoration: none;
+    color: black;
+    padding-left: 15px;
+}
+
+a.nav-link.dropdown-toggle::after
+{
+    color: #000;
+    margin-left: 50px;
+    display: none;
+}
+
+.col-md-3>ul.nav.flex-column >hr
+{
+    width: 209px;
+}
